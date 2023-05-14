@@ -190,9 +190,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 ## Snake eating my contribution graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeMartell/CodeMartell/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeMartell/CodeMartell/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <img width="750" height="250" src="https://github.com/CodeMartell/CodeMartell/blob/output/github-contribution-grid-snake.svg" alt="Material Bread logo">
+</p>

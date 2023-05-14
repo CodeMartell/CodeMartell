@@ -1,6 +1,6 @@
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Romulo Lira! </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Full+Stack+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF757&width=435&lines=console.log(%22software+developer%22))](https://git.io/typing-svg)
 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 
@@ -189,4 +189,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: romulolira1@gmail.com
 - 😄 Pronouns: he/him
 
+## Snake eating my contribution graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeMartell/CodeMartell/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeMartell/CodeMartell/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/output/github-contribution-grid-snake.svg">
+</picture>
 

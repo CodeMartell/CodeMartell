@@ -1,11 +1,12 @@
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Romulo Lira! </h2>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF757&width=435&lines=console.log(%22software+developer%22))](https://git.io/typing-svg)
-<img align="right" height="410px" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/main/githubcard%201%20(2).svg"/>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF757&width=435&lines=console.log(%22Hello+World%22))](https://git.io/typing-svg)
 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 
 - 💞️ I’m looking to collaborate on ...(ReactJS, React-Native, NodeJS, NestJS)
+
+<img align="center" height="450px" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/main/githubcard%201%20(2).svg"/>
 
 ## 🛠 &nbsp;Tech Stack
 

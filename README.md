@@ -1,6 +1,6 @@
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Romulo Lira! </h2>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF757&width=435&lines=console.log(%22Hello+World%22))](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF757&width=435&lines=I+💚+Technology)](https://git.io/typing-svg)
 
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 

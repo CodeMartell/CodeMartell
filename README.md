@@ -2,11 +2,19 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF757&width=435&lines=I+💚+Technology)](https://git.io/typing-svg)
 
+<div>
+  
 - 👀 I’m interested in mobile and web development (ReacJS, React-Native, NodeJS,NestJS)
 
 - 💞️ I’m looking to collaborate on ...(ReactJS, React-Native, NodeJS, NestJS)
+  
+</div>
 
-<img align="center" height="450px" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/main/githubcard%201%20(2).svg"/>
+<br>
+
+<img align="center" height="450px" width="900px" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/main/githubcard%201%20(2).svg"/>
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 

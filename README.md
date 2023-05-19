@@ -12,7 +12,7 @@
 
 <br>
 
-<img align="center" height="450px" width="900px" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/main/githubcard%201%20(2).svg"/>
+<img align="center" height="450px" width="895px" src="https://raw.githubusercontent.com/CodeMartell/CodeMartell/main/githubcard%201%20(2).svg"/>
 
 <br>
 

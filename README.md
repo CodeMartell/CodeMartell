@@ -56,11 +56,11 @@
   
 <td> 
   
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![Chakra](https://img.shields.io/badge/-Chakra-05122A?style=flat&logo=chakraui)&nbsp;
+<!-- ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp; -->
+<!-- ![Chakra](https://img.shields.io/badge/-Chakra-05122A?style=flat&logo=chakraui)&nbsp; -->
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledcomponents)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
+<!-- ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp; -->
 </td>
 
  <td>
@@ -85,10 +85,10 @@
 <td>
   
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactquery)&nbsp;
+<!-- ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactquery)&nbsp; -->
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Next JS](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+<!-- ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) -->
 
 </td>
   
@@ -97,11 +97,11 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestdotjs)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![Apollo-GraphQL](https://img.shields.io/badge/-ApoloGraphQL-05122A?style=flat&logo=apollographql)&nbsp;
+<!-- ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp; -->
+<!-- ![Apollo-GraphQL](https://img.shields.io/badge/-ApoloGraphQL-05122A?style=flat&logo=apollographql)&nbsp;
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-05122A?style=flat&logo=typegraphql)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; -->
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jwt)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
@@ -110,7 +110,7 @@
   
 <td>
   
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
+<!-- ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp; -->
 ![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
   
 </td>
@@ -156,7 +156,7 @@
   
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=apachekafka)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+<!-- ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp; -->
   
 </td>
 
@@ -164,7 +164,7 @@
   
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+<!-- ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp; -->
   
 </td>
  
